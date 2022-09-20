@@ -6,11 +6,17 @@
 
 - 🌱 Actualmente aprendiendo apasionadamente **Angular, React, Next, Vue**
 
-- 👯 Colaborador de desarrollo [Página WEB dibujando un mañana](https://dibujando.org.mx/)
-
 - 💬 Preguntame sobre: **HTML, CSS, .NET, MVC, C#, JS, JQuery, PHP, WordPress, Shopify, AJAX, cPanel, Azure, API REST**
 
 - 📫 Contáctame **diegoalonsoag91@gmail.com**
+
+<h3 align="left">Pyoyectos en los que colaboré</h3>
+
+- 👯 Front-End Developer (https://dibujando.org.mx/)
+- 👯 Front-End Developer (https://conectadosc.dibujando.org.mx/Account/Login?ReturnUrl=%2F)
+- 👯 Front-End Developer (https://www.biologicosespecializados.com/)
+- 👯 Front-End Developer (https://muralmed.com/)
+- 👯 Front-End Developer (https://www.apoyovital.com.mx/)
 
 <h3 align="left">También puedes contactarme por:</h3>
 <p align="left">
